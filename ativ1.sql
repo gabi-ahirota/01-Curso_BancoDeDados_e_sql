@@ -1,4 +1,3 @@
-/* aaa oi eu sou um comentario */
 
 CREATE TABLE LIVROS(
 	NOME_DO_LIVRO VARCHAR(30),
